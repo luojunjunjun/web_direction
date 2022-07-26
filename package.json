@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "jsencrypt": "^3.2.1",
+    "md5": "^2.3.0"
+  }
+}
