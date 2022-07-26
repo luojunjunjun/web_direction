@@ -14,3 +14,6 @@
 #### 2、易盾滑块，以网页 https://www.zhihu.com/signin?next=%2F 登录为例
 上次运行时间: 2022-7-26
 ![img.png](image/img_2.png)
+
+### 最后：
+部分代码年代久远，代码风格有变 多多见谅
