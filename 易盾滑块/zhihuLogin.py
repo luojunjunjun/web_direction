@@ -399,7 +399,7 @@ if __name__ == "__main__":
     while True:
         fp, validate = ydSlider.passSlider()
         zhLogin = zhihuLogin(fp, validate)
-        flag, ckData = zhLogin.login("15574973835", "weilaike7")
+        flag, ckData = zhLogin.login("phone number", "passwd")
         print("login success")
         print(ckData['cookie'])
         break
